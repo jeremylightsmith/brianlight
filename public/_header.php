@@ -18,17 +18,17 @@
         <span class="icon-bar"></span>
       </button>
 
-      <a class="navbar-brand" href="index"><img src="images/logo.png"/></a>
+      <a class="navbar-brand" href="/"><img src="images/logo.png"/></a>
 
       <div class="nav-collapse collapse">
         <ul class="nav navbar-nav pull-right">
           <!-- <li<?php if ($title == "") { echo " class='active'"; } ?>><a href="index">Home</a></li> -->
           
           <!-- <li<?php if ($title == "About") { echo " class='active'"; } ?>><a href="about"><span>About</span> Get to know me</a></li> -->
-          <li<?php if ($title == "Services") { echo " class='active'"; } ?>><a href="services"><span>Services</span> How I can help</a></li>
-          <li<?php if ($title == "Testimonials") { echo " class='active'"; } ?>><a href="testimonials"><span>Testimonials</span> From happy clients</a></li>
-          <li<?php if ($title == "Projects") { echo " class='active'"; } ?>><a href="past_projects"><span>Projects</span> See my work</a></li>
-          <li<?php if ($title == "Contact") { echo " class='active'"; } ?>><a href="get_a_bid"><span>Contact</span> Get a bid</a></li>
+          <li<?php if ($title == "Services") { echo " class='active'"; } ?>><a href="/services"><span>Services</span> How I can help</a></li>
+          <li<?php if ($title == "Testimonials") { echo " class='active'"; } ?>><a href="/testimonials"><span>Testimonials</span> From happy clients</a></li>
+          <li<?php if ($title == "Projects") { echo " class='active'"; } ?>><a href="/past_projects"><span>Projects</span> See my work</a></li>
+          <li<?php if ($title == "Contact") { echo " class='active'"; } ?>><a href="/get_a_bid"><span>Contact</span> Get a bid</a></li>
         </ul>
       </div>
     </div>
