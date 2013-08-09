@@ -1,5 +1,4 @@
 
-move over old project pages
 projects page should point to old work
 fix service links -> what should they point to?
 
@@ -17,6 +16,8 @@ upload Karissa video to youtube + put on front page
 deploy on top of old site
 
 <---------- MVP ----------->
+
+make old project pages use pretty picture galleries or something so they don't suck
 
 b + j - picture of brian for about page
 what should services page look like?
