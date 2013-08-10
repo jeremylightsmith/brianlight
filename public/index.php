@@ -61,7 +61,7 @@
   <h2>Happy Clients</h2>
 
   <div class="row">
-    <div class="col-4">
+    <div class="col-sm-4 col-lg-4">
       <!-- dan -->
       <div class="video-wrapper"><iframe src="//www.youtube.com/embed/3gdcFVQX24Y?hd=1&rel=0&autohide=1&showinfo=0" frameborder="0" allowfullscreen></iframe></div>
       
@@ -74,18 +74,18 @@
       </blockquote>
     </div>
 
-    <div class="col-4">
+    <div class="col-sm-4 col-lg-4">
       <!-- michael -->
       <div class="video-wrapper"><iframe src="//www.youtube.com/embed/1cof_D8Hoh4?hd=1&rel=0&autohide=1&showinfo=0" frameborder="0" allowfullscreen></iframe></div>
       
       <blockquote>
         <p>My wife and i just bought a new home...Brian tore out a wall, finished the unfinished basement, remodeled the bathroom, did a lot of tiling for us and laid our wood floors. The best part of what Brian did for us is that he would just do odds and ends before we even asked him to and it really polished the place up.</p>
         <p>I give brian a five star rating!</p>
-        <p class="by">- Michael &amp; Emily Smith</p>
+        <p class="by">- Michael &amp; Emily</p>
       </blockquote>
     </div>
 
-    <div class="col-4">
+    <div class="col-sm-4 col-lg-4">
       <div class="video-wrapper"><iframe src="//www.youtube.com/embed/03V5obaU6FE?hd=1&rel=0&autohide=1&showinfo=0" frameborder="0" allowfullscreen></iframe></div>
 
       <blockquote>

@@ -1,14 +1,7 @@
-
-projects page should point to old work
-fix service links -> what should they point to?
-
-spreadsheet entry should email brian
-
 b + j - picture of brian for home page banner
 
 brian - carousel copy
-
-hide about page
+brian - project page copy
 
 video with Karissa in it
 upload Karissa video to youtube + put on front page
@@ -35,6 +28,8 @@ brian - dan work copy
 brian - michael work copy
 brian - school work copy
 
+create about page
+
 header shouldn't eat itself between 767px and 990px
 
 add dan to testimonial's page w/ video + transcript
@@ -45,4 +40,4 @@ projects page should point to the school
 
 fix michael's face :)
 
-pictures should be wider, or we should set the max width to 940px
+carousel pictures should be wider, or we should set the max width to 940px
