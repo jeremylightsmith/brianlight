@@ -56,7 +56,23 @@
 }
 
 .hero {
-  padding: 10px 0;
+  padding: 10px 0 10px;
+}
+
+.hero .carousel-caption {
+      max-width: 66%;
+      background-image: url(../images/dark_pixel.png);
+      padding: 0 20px;
+      /*margin:0 auto;*/
+      /*margin-top: 200px;*/
+      text-align:right;
+      right: 0;
+      left: auto;
+      bottom: 32px;
+}
+
+.hero .carousel-indicators {
+  bottom: 0px;
 }
 
 .video-wrapper {

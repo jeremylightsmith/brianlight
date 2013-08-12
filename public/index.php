@@ -14,36 +14,66 @@
         <li data-target="#hero-carousel" data-slide-to="1"></li>
         <li data-target="#hero-carousel" data-slide-to="2"></li>
         <li data-target="#hero-carousel" data-slide-to="3"></li>
+        <!-- <li data-target="#hero-carousel" data-slide-to="4"></li> -->
       </ol>
 
       <!-- Wrapper for slides -->
       <div class="carousel-inner">
-        <div class="item active">
-          <img src="/images/banners/dan_kitchen.jpg" alt="">
+<!--         <div class="item active">
+          <img src="/images/banners/brian1.jpg" alt="">
           <div class="carousel-caption">
             <h3>My promise to you</h3>
             <p>quality work, a fair price, piece of mind.</p>
           </div>
         </div>
+ -->
+        <div class="item active">
+          <img src="/images/banners/brian4.jpg" alt="">
+          <div class="carousel-caption">
+            <h3>My promise to you...</h3>
+            <p>Quality work, a fair price, peace of mind.</p>
+          </div>
+        </div>
+        <div class="item">
+          <img src="/images/banners/dan_kitchen.jpg" alt="">
+          <div class="carousel-caption">
+            <h3>Kitchens</h3>
+            <p>
+              We can sit down to go over ideas. I can do your
+              cabinets, flooring, plumbing, appliances, or even move walls.
+            </p>
+          </div>
+        </div>
         <div class="item">
           <img src="/images/banners/dan_fence.jpg" alt="">
           <div class="carousel-caption">
-            <h3>Fences</h3>
-            I do yards, check out the fence, yo!
+            <h3>Decks &amp; Fences</h3>
+            <p>
+              From basic to elaborate, I can help you choose
+              materials and transform your outside
+              environment into an enticing and enduring space.
+            </p>
           </div>
         </div>
         <div class="item">
-          <img src="/images/banners/bathroom.jpg" alt="">
+          <img src="/images/banners/bathroom2.jpg" alt="">
           <div class="carousel-caption">
-            Bathrooms are fun, yo!
+            <h4>Bathroom Remodels</h4>
+            <p>
+              From marble to period styles, I use 
+              materials that are becoming to your tastes.
+              What sets my tile work apart is that I pay attention
+              to the details. 
+            </p>
           </div>
         </div>
-        <div class="item">
+<!--         <div class="item">
           <img src="/images/banners/school_outdoors.jpg" alt="">
           <div class="carousel-caption">
             And this outdoors is sweeeeet!
           </div>
         </div>
+ -->
       </div>
 
       <!-- Controls -->
@@ -86,11 +116,11 @@
     </div>
 
     <div class="col-sm-4 col-lg-4">
-      <div class="video-wrapper"><iframe src="//www.youtube.com/embed/03V5obaU6FE?hd=1&rel=0&autohide=1&showinfo=0" frameborder="0" allowfullscreen></iframe></div>
+<!--       <div class="video-wrapper"><iframe src="//www.youtube.com/embed/03V5obaU6FE?hd=1&rel=0&autohide=1&showinfo=0" frameborder="0" allowfullscreen></iframe></div>
 
       <blockquote>
       </blockquote>
-
+ -->
     </div>
   </div>
 </div>
