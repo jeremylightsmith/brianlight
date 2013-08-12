@@ -96,5 +96,20 @@
   </div>
 </div>
 
+<script type="text/javascript">
+(function($) {
+    $.fn.uniformHeight = function() {
+        var maxHeight   = 0,
+            max         = Math.max;
+
+        return this.each(function() {
+            maxHeight = max(maxHeight, $(this).height());
+        }).height(maxHeight);
+    }
+})(jQuery);
+$(function() {
+  $(".thumbnail").uniformHeight();
+})
+</script>
 
 <?php include ( "_footer.php" ); ?>
