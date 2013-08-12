@@ -58,7 +58,7 @@
         <div class="item">
           <img src="/images/banners/bathroom2.jpg" alt="">
           <div class="carousel-caption">
-            <h4>Bathroom Remodels</h4>
+            <h3>Bathroom Remodels</h3>
             <p>
               From marble to period styles, I use 
               materials that are becoming to your tastes.
