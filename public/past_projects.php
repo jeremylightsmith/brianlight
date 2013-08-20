@@ -76,7 +76,7 @@
         <div class="caption">
           <h3>Holbrook's Basement Daycare</h3>
           <p>We balanced personal space and professional space.</p>
-          <p><a href="/projects/basement_daycare/" data-target="#simple-modal" data-toggle="modal" class="btn btn-primary">Read more...</a></p>
+          <p><a href="/projects/basement_daycare" data-target="#simple-modal" data-toggle="modal" class="btn btn-primary">Read more...</a></p>
         </div>
       </div>
     </div>
@@ -88,7 +88,7 @@
         <div class="caption">
           <h3>My Own Home</h3>
           <p>Built it from scratch!</p>
-          <p><a href="/projects/my_own_home/" data-target="#simple-modal" data-toggle="modal" class="btn btn-primary">Read more...</a></p>
+          <p><a href="/projects/my_own_home" data-target="#simple-modal" data-toggle="modal" class="btn btn-primary">Read more...</a></p>
         </div>
       </div>
     </div>
