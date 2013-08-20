@@ -25,7 +25,7 @@
       <li>rental property maintenance</li>
       <li>household to do lists</li>
       <li>additions  (<a href="/projects/garage_museum" data-target="#simple-modal" data-toggle="modal">see an example</a>) <br>
-        and buildings (<a href="/projects/my-own-home" data-target="#simple-modal" data-toggle="modal">see an example</a>)</li>
+        and buildings (<a href="/projects/my_own_home" data-target="#simple-modal" data-toggle="modal">see an example</a>)</li>
       </ul>
       </td>
       <td><strong>Skills:</strong><p></p>

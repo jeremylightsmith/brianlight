@@ -74,7 +74,7 @@
       <div class="thumbnail">
         <div class="crop"><img src="/images/projects/basement_daycare.jpg" alt=""></div>
         <div class="caption">
-          <h3>Holbrook’s Basement Daycare</h3>
+          <h3>Holbrook's Basement Daycare</h3>
           <p>We balanced personal space and professional space.</p>
           <p><a href="/projects/basement_daycare/" data-target="#simple-modal" data-toggle="modal" class="btn btn-primary">Read more...</a></p>
         </div>
