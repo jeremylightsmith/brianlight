@@ -134,11 +134,11 @@ blockquote {
   background-color: #87b5b3;
 }
 
-.projects-page .jcarousel-clip {
+.jcarousel-clip {
   overflow: auto;
 }
 
-.projects-page .pika-textnav {
+.pika-textnav {
   display: none;
 }
 
