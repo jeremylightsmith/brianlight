@@ -10,8 +10,9 @@
   <script src="js/bootstrap.min.js"></script>
   
   <link type="text/css" href="/css/bottom.css" rel="stylesheet" />
+  <!-- <link type="text/css" href="/css/pikachoose-whiteout-theme.css" rel="stylesheet" /> -->
   <script type="text/javascript" src="/js/jquery.jcarousel.min.js"></script>
-  <script type="text/javascript" src="/js/jquery.pikachoose.min.js"></script>
+  <script type="text/javascript" src="/js/jquery.pikachoose.js"></script>
 </head>
 <body class="<?php echo $css ?>">
   <div class="navbar">

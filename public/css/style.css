@@ -126,6 +126,22 @@ blockquote {
   top: 0; left: 0; width: 100%; 
 }
 
+.projects-page a:hover {
+  text-decoration: none;
+}
+
+.projects-page a:hover .thumbnail {
+  background-color: #87b5b3;
+}
+
+.projects-page .jcarousel-clip {
+  overflow: auto;
+}
+
+.projects-page .pika-textnav {
+  display: none;
+}
+
 /* footer */
 
 footer {
