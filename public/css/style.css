@@ -36,13 +36,24 @@
 
 .navbar .navbar-brand {
   padding-top: 5px;
-  padding-bottom: 0;
+  padding-bottom: 5px;
 }
 
 .navbar .navbar-brand img {
   height: 64px;
 }
 
+@media (max-width: 991px) and (min-width: 768px) {
+  .navbar .navbar-brand img {
+    height: 50px;
+  }
+
+  .navbar .nav > li > a {
+    font-size: 0.8em;
+    padding: 10px 10px;
+    line-height: 15px;
+  }
+}
 
 /* hero */
 
