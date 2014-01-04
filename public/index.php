@@ -92,6 +92,19 @@
 
   <div class="row">
     <div class="col-sm-4 col-lg-4">
+      <!-- karissa -->
+      <div class="video-wrapper"><iframe width="560" height="315" src="//www.youtube.com/embed/1vvHrFlsCec?hd=1&rel=0&autohide=1&showinfo=0" frameborder="0" allowfullscreen></iframe></div>
+      
+      <blockquote>
+        <p>...this is my montessori school...</p>
+        <p>...Brian came and he gutted the entire space all the way down to the outer walls. He built ... office, bathrooms, [kitchen], tile floors, painted everything, put in windows to make it a much lighter space, all the fences, landscaping, plumbing + electricity ... with very reasonable rates on a limited time schedule...</p>
+        <p>...Now this is a place where children get to learn!
+        
+        <p class="by">- Karissa, Head of School, <br/>&nbsp;&nbsp;<a href="http://lighthousemontessori.com">Lighthouse Montessori School</a></p>
+      </blockquote>
+    </div>
+
+    <div class="col-sm-4 col-lg-4">
       <!-- dan -->
       <div class="video-wrapper"><iframe src="//www.youtube.com/embed/3gdcFVQX24Y?hd=1&rel=0&autohide=1&showinfo=0" frameborder="0" allowfullscreen></iframe></div>
       
@@ -113,14 +126,6 @@
         <p>I give brian a five star rating!</p>
         <p class="by">- Michael &amp; Emily</p>
       </blockquote>
-    </div>
-
-    <div class="col-sm-4 col-lg-4">
-<!--       <div class="video-wrapper"><iframe src="//www.youtube.com/embed/03V5obaU6FE?hd=1&rel=0&autohide=1&showinfo=0" frameborder="0" allowfullscreen></iframe></div>
-
-      <blockquote>
-      </blockquote>
- -->
     </div>
   </div>
 </div>
