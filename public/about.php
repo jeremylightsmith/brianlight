@@ -26,7 +26,7 @@
     <div class="col-lg-4 col-sm-4">
       <img src="/images/about1.jpg" class="img-responsive"/>
       <h3>Brian Light</h3>
-      <p>General Contractor, Certified + Bonded</p>
+      <p>General Contractor, CSLB # 1002349</p>
       <p>
         <a href="/get_a_bid" class="btn btn-primary">Call me today!</a>
       </p>

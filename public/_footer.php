@@ -17,7 +17,7 @@
 </div>
 
 <footer>
-  &copy; Brian Light 2010  |  (206) 707-1091
+  &copy; Brian Light 2010  |  (949) 607-7750
 </footer>
 
 <script type="text/javascript">

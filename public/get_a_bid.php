@@ -9,7 +9,7 @@
       <p>You are put on the schedule and kept clearly informed of start, progression and end dates.</p>
       <p>I keep my work phone on me and you are&nbsp;welcome to call me with questions.</p>
       <p>Brian Light<br>
-      (206) 707-1091<br>
+      (949) 607-7750<br>
       <a href="mailto:brian.light.building.services@gmail.com">brian.light.building.services@gmail.com</a></p>
     </div>
 
